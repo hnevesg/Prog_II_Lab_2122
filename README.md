@@ -1,5 +1,5 @@
 # Lab Fundamentos de Programación II 21/22
-Práctica de Java de Fundamentos de Programación II hecha durante el curso 21/22: automatización del sistema de información de un camping.
+Práctica de Java de Fundamentos de Programación II hecha durante el curso 21/22: **Automatización del sistema de información de un camping**
 
 Componentes
 -----------
