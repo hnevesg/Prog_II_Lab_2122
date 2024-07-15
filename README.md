@@ -4,6 +4,6 @@ Práctica de Java de Fundamentos de Programación II hecha durante el curso 21/2
 Componentes
 -----------
     ./  
-        Enunciado de la práctica y diagrama de clases UML del proyecto
+        - Enunciado de la práctica y diagrama de clases UML del proyecto
     
     ./src -> Directorio con el código fuente del proyecto, estructurado en clases
